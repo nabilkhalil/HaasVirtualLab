@@ -86,5 +86,8 @@ qa/           performance measurement scripts
 
 ## Deployment
 
+**Live:** <https://nabilkhalil.github.io/HaasVirtualLab/> — published from `main` by
+[.github/workflows/deploy.yml](.github/workflows/deploy.yml) on every push (install → test → build → Pages).
+
 The build uses a relative base (`base: './'`), so the same `dist/` works at a domain root, at a GitHub Pages
 project subpath (`/HaasVirtualLab/`) and from `file://`. See [docs/DEPLOYMENT.md](docs/DEPLOYMENT.md).
