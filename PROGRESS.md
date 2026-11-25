@@ -47,4 +47,4 @@ PART ZERO SET, edge finder, gauge block, reference tool, "Why:" explanations. Le
 ## Tests (2026-11-26)
 `npm test`: 155 unit, 12 files (was 139; +8 content integrity, +8 UI/shortcut/version). `npm run build` OK. `npm run e2e`
 (SwiftShader Chromium): 11 tests (was 9; +case-study→simulator flow, reference, guide, settings persistence, shortcuts,
-keyboard jog, divider resize). Deployment not published: no GitHub repo or credentials here — see docs/DEPLOYMENT.md.
+keyboard jog, divider resize). Deployed: https://nabilkhalil.github.io/HaasVirtualLab/ (GitHub Actions, green).
