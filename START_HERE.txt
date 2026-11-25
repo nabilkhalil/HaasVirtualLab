@@ -1,0 +1,7 @@
+1. Extract this ZIP into a new folder. Keep the hidden .claude folder.
+2. Open the extracted HaasVirtualLab folder in VS Code.
+3. Open Claude Code in this folder (or run claude in its terminal).
+4. Paste this prompt:
+Read CLAUDE.md and PROGRESS.md. Implement Phase 1 only. Use relevant project skills. Build and test, launch a local preview, update PROGRESS.md and stop. Keep output concise.
+5. After Phase 1, use /clear and paste: Read PROGRESS.md and CLAUDE.md. Implement Phase 2 only. Test and update progress.
+Repeat for subsequent phases. Do not upload machine credentials or connect to physical equipment.
